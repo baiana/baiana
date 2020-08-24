@@ -8,7 +8,6 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 
 ### :star: Some fun facts!
 - I love Doctor Who, The Umbrella Academy and Star Wars;
- - I have a [playlist to help me code](https://open.spotify.com/playlist/2363Q4BEK2CklAjOaKGorg?si=fX5VizGES8G3tpPOJLiWeQ)! (Spoiler: It's 90% Beyoncé);
  - I'm left handed  :point_left: 
  - This drawing of me was a gift from my friend [@blueIlustra](https://www.instagram.com/blueilustra/) :heart: 
 
@@ -23,7 +22,6 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) ![enter image description here](https://img.shields.io/badge/-Dart-964b09?&logo=swift), android animations, game development, CI/CD, UI testing;
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart:
  - how to Sew, crochet, embroider and knitt; 
- - How to cook (mostly, how-to-not-burn-every-meal) :curry:
  - Something new everyday! 
 
 ### :mortar_board: Graduating:
