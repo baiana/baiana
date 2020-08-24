@@ -8,3 +8,7 @@ Aqui você vai encontrar alguns projetos pessoais, educativos, experimentos e v�
 Pelo meu user você já deve saber de onde eu sou :sweat_smile: ! Também sou Dev Mobile, apaixonada por educação, Kotlin e chá :tea:
 Tenho como missão e paixão ajudar outras mulheres a atingirem seus objetivos na área de tecnologia :heart: 
 
+
+
+
+
