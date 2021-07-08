@@ -11,8 +11,8 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - This drawing of me was a gift from my friend [@blueIlustra](https://www.instagram.com/blueilustra/) :heart: 
 
 ##  :calendar: I'm currently  ...
-
- 
+### :clipboard: Working:
+ - As a Android Software Engineer at [@Ifood](https://www.linkedin.com/company/ifood)
  ### :books: Learning:
  - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart), android animations, CI/CD, UI testing;
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Salvador Group :heart:
